@@ -1,4 +1,4 @@
-# La Gestion des stagaires dans une banque
+# La Gestion des stagaires d'une banque
 
 Chaque utilisateur est défini par:(Identifiant (id), Login, email, Role (admin / Visiteur) Etat (0: désactivé  1: Activé) pwd)<br>
 Chaque stagiaire est défini par: (Identifiant (id), Nom, Prénom, Civilité (F ou M), Photo)<br>
