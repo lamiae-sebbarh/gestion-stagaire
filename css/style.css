@@ -1,0 +1,38 @@
+.espace10{
+    margin-top:30px;
+}
+.espace20{
+    margin-top:30px;
+}
+.espace30{
+    margin-top:30px;
+}
+.espace40{
+    margin-top:40px;
+}
+.espace50{
+    margin-top:50px;
+}
+.espace60{
+    margin-top:60px;
+}
+.no-margin
+{
+    margin:0px;
+}
+.no-paddin
+{
+    padding:0px;
+}
+.taille50{
+	width:50px;
+	height:50px;
+}
+.taille100{
+	width:100px;
+	height:100px;
+}
+.taille200{
+	width:200px;
+	height:200px;
+}
