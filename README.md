@@ -9,3 +9,13 @@ Une filière peut regrouper plusieurs stagiaires.<br>
 
 login:lamiae<br>
 mdp:123
+
+<h2>
+
+![image](https://user-images.githubusercontent.com/58346874/86147428-ae2c8e00-baf9-11ea-900f-5d8d21857180.png)
+
+![image](https://user-images.githubusercontent.com/58346874/86147449-b2f14200-baf9-11ea-96ba-85641087e94a.png)
+
+![image](https://user-images.githubusercontent.com/58346874/86147471-b97fb980-baf9-11ea-8e45-48bf7789cedb.png)
+
+![image](https://user-images.githubusercontent.com/58346874/86147495-bedd0400-baf9-11ea-81b4-abde261115c5.png)
